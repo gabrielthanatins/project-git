@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.exe
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.deps.json
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.runtimeconfig.json
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.dll
+C:\Users\gabri\source\repos\Projetct\Projetct\bin\Debug\netcoreapp3.1\Projetct.pdb
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.dll
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.pdb
+C:\Users\gabri\source\repos\Projetct\Projetct\obj\Debug\netcoreapp3.1\Projetct.genruntimeconfig.cache
